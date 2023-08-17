@@ -5,11 +5,19 @@ HashCrack Is A Md5 Hash Cracking Tool With Multiple Wordlists
 
 # Requirements
 python3
+
 hashlib
+
 colorama
 
 
 # Usage
 wget https://github.com/GospelHack33/HashCrack
+
 cd HashCrack
+
 python hashcrack.py -h "md5_hash_here"
+
+# Developer
+<b>Gospel Chukwunonso</b>
+
